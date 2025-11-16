@@ -14,7 +14,15 @@ pip install git+https://github.com/Kitsunetic/simple-super-resolution-gradio.git
 
 Just run this command:
 ```sh
+# basic
 sr
+
+# use public link
+sr --public
+
+# increase batch size to accelerate by using more memory
+# 8 batch size (default) usually uses ~6GB
+sr --batch_size=16
 ```
 
 Then it shows log like this:
