@@ -2,7 +2,7 @@
 
 Simple web launcher for 4x super-resolution using unofficial GigaGAN implementation(https://github.com/fal-ai/aura-sr)
 
-
+![teaser](./assets/teaser.png)
 
 # Install
 
