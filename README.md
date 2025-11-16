@@ -16,3 +16,12 @@ Just run this command:
 ```sh
 sr
 ```
+
+Then it shows log like this:
+```
+Fetching 6 files: 100%|████████| 6/6 [00:00<00:00, 3320.91it/s]
+* Running on local URL:  http://127.0.0.1:7861
+* Running on public URL: https://8b07d37fe5aaf32ad0.gradio.live
+
+This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
+```
