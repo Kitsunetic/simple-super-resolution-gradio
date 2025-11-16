@@ -4,11 +4,17 @@ Simple web launcher for 4x super-resolution using unofficial GigaGAN implementat
 
 ![teaser](./assets/teaser.png)
 
+# Todo
+
+- [ ] Use foundational diffusion models. It seems the quality is not good enough due to no large-scale training.
+
+
 # Install
 
 ```sh
 pip install git+https://github.com/Kitsunetic/simple-super-resolution-gradio.git
 ```
+
 
 # Run
 
