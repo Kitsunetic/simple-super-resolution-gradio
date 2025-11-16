@@ -39,4 +39,4 @@ iface = gr.Interface(
     description="Upload an image.",
 )
 
-iface.launch(share=P.public)
+iface.launch(share=args.public)
